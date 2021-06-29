@@ -29,6 +29,7 @@ In this analysis, we explore web scraping and the various tools used to extract 
   * The Scrape New Data button is styled: (btn-info)
   * The mars facts is styled: (Card-body)
   * The mars hemispheres images are styled as thumbnails; when clicked, they open up as full resolution images
+
 ![Mission_to_Mars](https://user-images.githubusercontent.com/67847583/123872685-0b207700-d8fb-11eb-9002-99285876d75f.png)
 
 
