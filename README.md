@@ -5,7 +5,7 @@ In this analysis, we explore web scraping and the various tools used to extract 
 * Tools: Splinter, Web-Driver Manager, BeautifulSoup
 * Software: Python 3.9.5, Visual Studio Code 1.57.1, Jupyter Notebook 6.3.0
 * Database: MongoDB
-* HTML and CSS
+* HTML and CSS Bootstrap
 
 ## Components of the Web Scraping App
 * Python script to perform the scraping
