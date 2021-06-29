@@ -7,6 +7,11 @@ In this analysis, we explore web scraping and the various tools used to extract 
 * Database: MongoDB
 * HTML and CSS
 
+## Components of Web Scraping
+* Python script to perform the scraping
+* HTML Index page to display results
+* Flask App that connects the Python script to HTML and MongoDB in order to display the results
+
 ## Control
 1. Using the Chrome Developer tools, visit the NASA News website and identify the HTML tags that contains the information to scrape
 2. Automate the Chrome browser using Splinter to visit the URL
