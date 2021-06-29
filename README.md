@@ -23,3 +23,6 @@ In this analysis, we explore web scraping and the various tools used to extract 
 8. Parse the scraped data to a dataframe and then convert to HTML table.
 9. Finally, vsisit the mars hemisphers website and scrape full resolution images of all 4 mars hemispheres
 10. In a python script, store all of the scraped data in MongoDB
+
+## Results
+### Full-Resolution Mars Hemisphere Images and Titles
