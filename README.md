@@ -5,14 +5,14 @@ In this analysis, we explore web scraping and the various tools used to extract 
 * Tools: Splinter, Web-Driver Manager, BeautifulSoup
 * Software: Python 3.9.5, Visual Studio Code 1.57.1, Jupyter Notebook 6.3.0
 * Database: MongoDB
-* HTML and CSS
+* HTML and CSS Bootstrap
 
-## Components of Web Scraping
+## Components of the Web Scraping App
 * Python script to perform the scraping
 * HTML Index page to display results
 * Flask App that connects the Python script to HTML and MongoDB in order to display the results
 
-## Control
+## Control Flow
 1. Using the Chrome Developer tools, visit the NASA News website and identify the HTML tags that contains the information to scrape
 2. Automate the Chrome browser using Splinter to visit the URL
 3. Using BeautifulSoup, parse the HTML of the page.
@@ -26,6 +26,10 @@ In this analysis, we explore web scraping and the various tools used to extract 
 
 ## Results
 ### Mission to Mars Web App
+  * The Scrape New Data button is styled: (btn-info)
+  * The mars facts is styled: (Card-body)
+  * The mars hemispheres images are styled as thumbnails; when clicked, they open up as full resolution images
+
 ![Mission_to_Mars](https://user-images.githubusercontent.com/67847583/123872685-0b207700-d8fb-11eb-9002-99285876d75f.png)
 
 
